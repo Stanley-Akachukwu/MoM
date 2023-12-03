@@ -1,2 +1,0 @@
-# Ignore MoM Requirements folder
-MoM Requirements
