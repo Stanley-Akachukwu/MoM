@@ -1,0 +1,16 @@
+There is a known bug about it. Not sure if they fix it. Just edit your vector file, and use smaller version. SO don't work on splashscreen until issue is fixed
+
+
+		
+Splash Screen Design & implementation	 
+Signin screen implementation	 
+Forgot password implementation	 
+Reset Password	 
+Search Patient or My Patient with search result Screen	 
+Notification implementation	 
+Patient Information screen	 
+Existing Recording screen	 
+Recording Screen	 
+Save Recording, Convert & upload to API	 
+Help Screen	 
+IOS File generation
