@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MoM.MAUIAPP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+52a99788ebe5daeff9ce6970aacb5d3a17194995")]
 [assembly: System.Reflection.AssemblyProductAttribute("MoM.MAUIAPP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MoM.MAUIAPP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
